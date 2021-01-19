@@ -1,4 +1,4 @@
-# anti-xaiomi
+# anti-xiaomi
 
 收集一些小米的隐私追踪、广告站点
 
